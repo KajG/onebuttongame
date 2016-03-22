@@ -1,0 +1,12 @@
+Hoe laat ik de kubus jumpen?
+
+[Ik maak een function aan, ik moet ook een event listener aanmaken zodat de computer kan registreren wanneer ik op een knop druk.
+Nu kan ik beginnen met de code. Ik maak een functie aan. Ik wil dat mijn cubus omhoog gaat als een knop wordt ingedrukt. Dus dan doe ik dat de X positie van de player wordt aangepast als ik op een knop druk. Nu maak ik nog een event listener aan als ik mijn knop niet meer indruk. Nu maar ik ook een function aan om de player weer naar beneden te gaan als de knop losgelaten wordt. Dus pas ik de X positie aan als ik de knop loslaat]
+
+Hoe laat ik de spikes in en uit het scherm gaan van rechts naar links?
+
+[Ik wil dat de spikes van rechts naar links in en uit het scherm. Dat moet dus elke frame gebeuren dus maak ik een eventlistener die elke frame pakt en dus elke keer aangeroepen wordt. Nu maak ik een function die dat opvangt en elke frame opnieuw wordt uitgevoerd. In deze functie zet ik dat een spike elke frame een antaal pixels naar links gaan. Ik wil dat deze speed random is. Dus maak ik een variable die elke keer als de s;ike uit het scherm is gereset word met een random speed. Als de spike X waarde kleiner is dat de lengte van het scherm wordt hij weer naar rechts gezet. Dat doe ik ook met de onderste spike.]
+
+Hoe laat ik de achtergrond bewegen?
+
+[Ik heb al een function aangemaakt in de psuedocode gedeelte van mijn spikes, dus in deze function zet ik ook het bewegen van de achtergrond zodat elke frame de achtergrond een stukje naar links gaat. In deze functie zet ik dat de speed gelijk blijft zodat je niet te misselijk wordt. Ik wil dat het de hele tijd doorgaat in een endless loop dus zorg ik ervoor dat er een ge-mirrorde versie is van mijn achtergrond. Als de X waarde zo klein is dat de achtergrond niet meer te zien is wordt hij weer helemaal rechts achteraan uit het beeld geplaatst. Dan komt de volgende achtergrond in de plaats van zodat het lijkt alsof de achtergrond uniek is. Deze code pas ik toe voor bijde achtegrond plaatjes. Nu heb ik een endless achtegrond loop voor een mooie bewegings illusie.]
