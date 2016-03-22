@@ -1,0 +1,5 @@
+Als (gebruiker), wil ik (Een score systeem), zodat ik (Ik een competitive gevoel kan krijgen)
+Als (gebruiker), wil ik (Een achtergrond), zodat ik (Een goed en fijn gevoel kan krijgen als ik de game speel)
+Als (gebruiker), wil ik (Een oneven spike speed), zodat ik (Een moeilijkheids graad zie zodat ik steeds weer een nieuwe uitdaging krijg)
+Als (gebruiker), wil ik (Een jump mechanic), zodat ik (Het een uitdagend spel wordt zodat je daadwerkelijk iets moet doen)
+Als (gebruiker), wil ik (Geen lagg), zodat ik (Het spel normaal kan spelen)
